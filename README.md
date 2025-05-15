@@ -1,4 +1,4 @@
 # demo
 This is my first Github Repository.
 <br>
-Author Shayan Haider.
+Autor Shayan Haider.
